@@ -406,7 +406,7 @@ The documentation covers every phase in detail — from Azure account creation t
 - **Azure VM Documentation** — [docs.microsoft.com/azure/virtual-machines](https://docs.microsoft.com/azure/virtual-machines)
 - **Docker Documentation** — [docs.docker.com](https://docs.docker.com)
 - **Kibana Documentation** — [elastic.co/guide/kibana](https://www.elastic.co/guide/en/kibana/current/index.html)
-- **Medium Blog Post** — *Link to your Medium article*
+- **Medium Blog Post** — *https://fazal-sec.medium.com/i-built-a-honeypot-on-azure-and-watched-the-internet-try-to-break-in-heres-exactly-how-184de1f12a3c*
 
 ---
 
