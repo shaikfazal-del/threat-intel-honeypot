@@ -357,7 +357,7 @@ ssh -p 64295 azureuser@<your-public-ip>
 
 ## 📸 Screenshots
 
-> *Images to be added — see the [full documentation](./docs/TPot_Honeypot_Azure_Documentation.docx) for annotated step-by-step screenshots.*
+> *Images to be added — see the [full documentation](TPot_Honeypot_Azure_Documentation.pdf) for annotated step-by-step screenshots.*
 
 | Step | Description |
 |---|---|
@@ -377,7 +377,7 @@ ssh -p 64295 azureuser@<your-public-ip>
 
 A complete step-by-step technical document with annotated screenshots, configuration tables, and troubleshooting reference is available:
 
-📄 **[TPot_Honeypot_Azure_Documentation.docx](TPot_Honeypot_Azure_Documentation.docx)**
+📄 **[TPot_Honeypot_Azure_Documentation.pdf](TPot_Honeypot_Azure_Documentation.pdf)**
 
 The documentation covers every phase in detail — from Azure account creation through to the Kibana dashboard — with image placeholders for each step.
 
